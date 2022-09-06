@@ -1,0 +1,33 @@
+body{
+    background-color: salmon;
+    text-align: center;
+}
+h2{
+    background-color: grey;
+    width: 50%;
+    text-align: center;
+    margin-left: 230;
+}
+p{
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn{
+    border-radius: 7px;
+    width: 100px;
+    height: 30px;
+    color: aquamarine;
+    background-color: maroon;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: antiquewhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
